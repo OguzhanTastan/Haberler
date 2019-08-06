@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mainPage"
+            android:icon="@drawable/ic_home"
+            android:title="AnaSayfa" />
+        <item
+            android:id="@+id/agenda"
+            android:icon="@drawable/ic_agenda"
+            android:title="Gündem" />
+
+        <item
+            android:id="@+id/world"
+            android:icon="@drawable/ic_world"
+            android:title="Dünya" />
+
+        <item
+            android:id="@+id/sports"
+            android:icon="@drawable/ic_football"
+            android:title="Spor" />
+        <item
+            android:id="@+id/technology"
+            android:icon="@drawable/ic_technology"
+            android:title="Teknoloji" />
+
+        <item
+            android:id="@+id/magazine"
+            android:icon="@drawable/ic_magazine"
+            android:title="Magazin" />
+
+        <item
+            android:id="@+id/economy"
+            android:icon="@drawable/ic_money"
+            android:title="Ekonomi" />
+
+    </group>
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Ayarlar" />
+
+        <item
+            android:id="@+id/hakkında"
+            android:icon="@drawable/ic_info"
+            android:title="Hakkında" />
+    </group>
+</menu>

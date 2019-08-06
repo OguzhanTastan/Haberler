@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Aug 06 15:04:05 EET 2019
+1.base=C\:\\Users\\oguzhan\\AndroidStudioProjects\\Haberler\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes2.dex
+0.set=DEX
+0.base=C\:\\Users\\oguzhan\\AndroidStudioProjects\\Haberler\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+1.path=classes.dex

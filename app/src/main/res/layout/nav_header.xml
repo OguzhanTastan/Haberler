@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    android:background="@color/colorNav"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+    <ImageView
+        android:layout_width="81dp"
+        android:layout_height="81dp"
+        android:src="@drawable/icon"
+        android:layout_gravity="start"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Haber Menü"
+        android:textColor="@color/colorText"
+        android:textSize="18sp"
+        android:layout_gravity="start"
+        android:paddingTop="8dp"/>
+
+
+</LinearLayout>
